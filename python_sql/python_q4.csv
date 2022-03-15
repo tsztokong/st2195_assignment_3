@@ -1,0 +1,288 @@
+,City,Inbound flight No
+0,Chicago,2388365
+1,Atlanta,1912370
+2,Dallas-Fort Worth,1781833
+3,Houston,1304407
+4,Los Angeles,1279514
+5,New York,1059087
+6,Phoenix,1043119
+7,Las Vegas,864082
+8,Denver,854573
+9,Detroit,845643
+10,Minneapolis,843200
+11,Newark,784193
+12,San Francisco,717532
+13,Boston,700229
+14,Covington,689784
+15,Philadelphia,683913
+16,St Louis,680620
+17,Charlotte,679985
+18,Salt Lake City,642885
+19,Seattle,617604
+20,Orlando,592950
+21,Baltimore,581244
+22,Chantilly,507681
+23,Arlington,495269
+24,San Diego,480591
+25,Pittsburgh,461535
+26,Cleveland,418480
+27,Tampa,408664
+28,Miami,391070
+29,Oakland,385300
+30,San Jose,380826
+31,Portland,375753
+32,Kansas City,349873
+33,Ft. Lauderdale,345593
+34,Nashville,334781
+35,Memphis,299690
+36,New Orleans,293117
+37,Raleigh,290110
+38,Santa Ana,266873
+39,Dallas,263915
+40,Sacramento,262176
+41,Austin,243756
+42,Indianapolis,228661
+43,San Antonio,226298
+44,Columbus,223456
+45,Albuquerque,217529
+46,Ontario,209670
+47,Windsor Locks,207037
+48,Providence,169451
+49,Reno,165166
+50,Burbank,159726
+51,Jacksonville,159599
+52,Honolulu,150504
+53,San Juan,150024
+54,West Palm Beach,149168
+55,Buffalo,128908
+56,El Paso,128452
+57,Louisville,128100
+58,Oklahoma City,126524
+59,Tulsa,125909
+60,Anchorage,120969
+61,Norfolk,118961
+62,Birmingham,118228
+63,Omaha,116947
+64,Ft. Myers,112519
+65,Manchester,110972
+66,Tucson,110454
+67,Milwaukee,110135
+68,Rochester,102319
+69,Albany,99733
+70,Richmond,98710
+71,Little Rock,94108
+72,Greensboro,89371
+73,Boise,82260
+74,Spokane,79265
+75,Charleston,73247
+76,Grand Rapids,72742
+77,Syracuse,72549
+78,Dayton,72045
+79,Jackson,70946
+80,Colorado Springs,70057
+81,Islip,65664
+82,Kahului,58351
+83,Greer,57264
+84,Des Moines,54210
+85,Knoxville,53776
+86,Palm Springs,53032
+87,Savannah,52862
+88,Wichita,49996
+89,Lubbock,49691
+90,Fayetteville/Springdale/Rogers,47699
+91,Fresno,47475
+92,Santa Barbara,45853
+93,Harrisburg,44957
+94,Huntsville,44193
+95,Midland,43518
+96,Long Beach,42460
+97,Columbia,42343
+98,Madison,41701
+99,Amarillo,41100
+100,Shreveport,38947
+101,White Plains,38856
+102,Pensacola,38798
+103,Corpus Christi,38188
+104,Baton Rouge,37466
+105,Cedar Rapids,34489
+106,Lexington,34210
+107,Burlington,33365
+108,Fairbanks,31429
+109,Sarasota,30368
+110,Springfield,30328
+111,Harlingen,30240
+112,Myrtle Beach,28310
+113,Allentown,28310
+114,Lihue,28164
+115,Green Bay,28019
+116,Kailua/Kona,27094
+117,Juneau,26778
+118,Monterey,25930
+119,Akron,25600
+120,Billings,24068
+121,Mobile,23656
+122,Fort Wayne,23633
+123,Valparaiso,23243
+124,Lansing,22444
+125,San Luis Obispo,21462
+126,Sioux Falls,21429
+127,Killeen,21055
+128,Flint,20763
+129,Bangor,20408
+130,Gulfport-Biloxi,20148
+131,Eugene,19868
+132,McAllen,19499
+133,Toledo,19472
+134,Tallahassee,19174
+135,Bozeman,19164
+136,Saginaw,18985
+137,Charlotte Amalie,18824
+138,Evansville,18179
+139,Fargo,18108
+140,Missoula,17764
+141,Medford,17667
+142,Kalamazoo,17274
+143,Great Falls,17131
+144,Chattanooga,17044
+145,Moline,16864
+146,Wilmington,16709
+147,Newport News,16395
+148,Rapid City,16067
+149,Asheville,16046
+150,Roanoke,15975
+151,Daytona Beach,15776
+152,Tyler,15447
+153,Peoria,15186
+154,South Bend,15057
+155,College Station,14856
+156,Ketchikan,14706
+157,Lafayette,14260
+158,Waco,13980
+159,Pasco,13950
+160,Traverse City,13694
+161,Kalispell,13172
+162,NA,13122
+163,Abilene,13118
+164,Monroe,13062
+165,Melbourne,12834
+166,Bristol,11832
+167,Champaign/Urbana,11823
+168,Arcata/Eureka,11722
+169,Bakersfield,11556
+170,Fort Smith,11511
+171,Augusta,11496
+172,Montgomery,11473
+173,San Angelo,11400
+174,Newburgh,11374
+175,Grand Junction,11263
+176,Lawton,10912
+177,Bismarck,10846
+178,Wichita Falls,10723
+179,Wilkes-Barre/Scranton,10628
+180,Hilo,10584
+181,Laredo,10424
+182,Lincoln,9999
+183,Idaho Falls,9545
+184,Panama City,9231
+185,Bloomington,9146
+186,Alexandria,8958
+187,Hailey,8827
+188,St George,8800
+189,Casper,8796
+190,Helena,8598
+191,Duluth,8598
+192,La Crosse,8556
+193,Redmond,8180
+194,Montrose,8133
+195,Texarkana,7947
+196,Sitka,7817
+197,Charlottesville,7579
+198,Elko,7414
+199,Beaumont/Port Arthur,7262
+200,Eagle,7207
+201,Gainesville,7040
+202,Key West,6948
+203,Fayetteville,6747
+204,Bethel,6644
+205,Longview,6485
+206,Minot,6453
+207,Twin Falls,6397
+208,Santa Maria,6287
+209,Redding,6143
+210,Nome,5986
+211,Appleton,5978
+212,Kotzebue,5883
+213,Brownsville,5799
+214,Dubuque,5777
+215,Dothan,5636
+216,Pocatello,5594
+217,St. Petersburg,5221
+218,Grand Forks,5135
+219,Oxnard,5111
+220,Erie,4915
+221,Binghamton,4813
+222,Columbus-Starkville-West Point,4604
+223,Barrow,4452
+224,Macon,4365
+225,Lake Charles,4310
+226,Hayden,4271
+227,Cordova,4256
+228,Yakutat,4170
+229,Petersburg,4158
+230,Wrangell,4155
+231,Valdosta,4095
+232,Kodiak,3987
+233,Modesto,3984
+234,Brunswick,3965
+235,Butte,3956
+236,Yuma,3853
+237,Christiansted,3837
+238,Meridian,3823
+239,Huntington,3385
+240,Chico,3186
+241,Lynchburg,3117
+242,Durango,3111
+243,Crescent City,3104
+244,Inyokern,3084
+245,Florence,2897
+246,Cedar City,2787
+247,Cody,2748
+248,Victoria,2369
+249,Ithaca,2321
+250,Elmira,2309
+251,Deadhorse,2278
+252,Atlantic City,2203
+253,Imperial,2172
+254,Aguadilla,2153
+255,Unalaska,2147
+256,King Salmon,1962
+257,Visalia,1848
+258,New Haven,1632
+259,Dillingham,1554
+260,Naples,1412
+261,Gunnison,1278
+262,Worcester,1119
+263,Sioux City,946
+264,West Yellowstone,808
+265,Kinston,727
+266,Lewisburg,722
+267,Lewiston,668
+268,Hickory,630
+269,Tupelo,617
+270,Nantucket,601
+271,Gustavus,528
+272,Lanai City,286
+273,Kaunakakai,275
+274,Adak,259
+275,Ponce,198
+276,Mosinee,175
+277,Mayaguez,84
+278,Pueblo,10
+279,Ogden,6
+280,Clarksburg,6
+281,Farmington,5
+282,Provo,3
+283,Cheyenne,2
+284,Scottsbluff,1
+285,Roswell,1
+286,Laramie,1

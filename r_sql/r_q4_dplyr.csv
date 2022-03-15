@@ -1,0 +1,288 @@
+"","city","inbound_count"
+"1","Chicago",2388365
+"2","Atlanta",1912370
+"3","Dallas-Fort Worth",1781833
+"4","Houston",1304407
+"5","Los Angeles",1279514
+"6","New York",1059087
+"7","Phoenix",1043119
+"8","Las Vegas",864082
+"9","Denver",854573
+"10","Detroit",845643
+"11","Minneapolis",843200
+"12","Newark",784193
+"13","San Francisco",717532
+"14","Boston",700229
+"15","Covington",689784
+"16","Philadelphia",683913
+"17","St Louis",680620
+"18","Charlotte",679985
+"19","Salt Lake City",642885
+"20","Seattle",617604
+"21","Orlando",592950
+"22","Baltimore",581244
+"23","Chantilly",507681
+"24","Arlington",495269
+"25","San Diego",480591
+"26","Pittsburgh",461535
+"27","Cleveland",418480
+"28","Tampa",408664
+"29","Miami",391070
+"30","Oakland",385300
+"31","San Jose",380826
+"32","Portland",375753
+"33","Kansas City",349873
+"34","Ft. Lauderdale",345593
+"35","Nashville",334781
+"36","Memphis",299690
+"37","New Orleans",293117
+"38","Raleigh",290110
+"39","Santa Ana",266873
+"40","Dallas",263915
+"41","Sacramento",262176
+"42","Austin",243756
+"43","Indianapolis",228661
+"44","San Antonio",226298
+"45","Columbus",223456
+"46","Albuquerque",217529
+"47","Ontario",209670
+"48","Windsor Locks",207037
+"49","Providence",169451
+"50","Reno",165166
+"51","Burbank",159726
+"52","Jacksonville",159599
+"53","Honolulu",150504
+"54","San Juan",150024
+"55","West Palm Beach",149168
+"56","Buffalo",128908
+"57","El Paso",128452
+"58","Louisville",128100
+"59","Oklahoma City",126524
+"60","Tulsa",125909
+"61","Anchorage",120969
+"62","Norfolk",118961
+"63","Birmingham",118228
+"64","Omaha",116947
+"65","Ft. Myers",112519
+"66","Manchester",110972
+"67","Tucson",110454
+"68","Milwaukee",110135
+"69","Rochester",102319
+"70","Albany",99733
+"71","Richmond",98710
+"72","Little Rock",94108
+"73","Greensboro",89371
+"74","Boise",82260
+"75","Spokane",79265
+"76","Charleston",73247
+"77","Grand Rapids",72742
+"78","Syracuse",72549
+"79","Dayton",72045
+"80","Jackson",70946
+"81","Colorado Springs",70057
+"82","Islip",65664
+"83","Kahului",58351
+"84","Greer",57264
+"85","Des Moines",54210
+"86","Knoxville",53776
+"87","Palm Springs",53032
+"88","Savannah",52862
+"89","Wichita",49996
+"90","Lubbock",49691
+"91","Fayetteville/Springdale/Rogers",47699
+"92","Fresno",47475
+"93","Santa Barbara",45853
+"94","Harrisburg",44957
+"95","Huntsville",44193
+"96","Midland",43518
+"97","Long Beach",42460
+"98","Columbia",42343
+"99","Madison",41701
+"100","Amarillo",41100
+"101","Shreveport",38947
+"102","White Plains",38856
+"103","Pensacola",38798
+"104","Corpus Christi",38188
+"105","Baton Rouge",37466
+"106","Cedar Rapids",34489
+"107","Lexington",34210
+"108","Burlington",33365
+"109","Fairbanks",31429
+"110","Sarasota",30368
+"111","Springfield",30328
+"112","Harlingen",30240
+"113","Myrtle Beach",28310
+"114","Allentown",28310
+"115","Lihue",28164
+"116","Green Bay",28019
+"117","Kailua/Kona",27094
+"118","Juneau",26778
+"119","Monterey",25930
+"120","Akron",25600
+"121","Billings",24068
+"122","Mobile",23656
+"123","Fort Wayne",23633
+"124","Valparaiso",23243
+"125","Lansing",22444
+"126","San Luis Obispo",21462
+"127","Sioux Falls",21429
+"128","Killeen",21055
+"129","Flint",20763
+"130","Bangor",20408
+"131","Gulfport-Biloxi",20148
+"132","Eugene",19868
+"133","McAllen",19499
+"134","Toledo",19472
+"135","Tallahassee",19174
+"136","Bozeman",19164
+"137","Saginaw",18985
+"138","Charlotte Amalie",18824
+"139","Evansville",18179
+"140","Fargo",18108
+"141","Missoula",17764
+"142","Medford",17667
+"143","Kalamazoo",17274
+"144","Great Falls",17131
+"145","Chattanooga",17044
+"146","Moline",16864
+"147","Wilmington",16709
+"148","Newport News",16395
+"149","Rapid City",16067
+"150","Asheville",16046
+"151","Roanoke",15975
+"152","Daytona Beach",15776
+"153","Tyler",15447
+"154","Peoria",15186
+"155","South Bend",15057
+"156","College Station",14856
+"157","Ketchikan",14706
+"158","Lafayette",14260
+"159","Waco",13980
+"160","Pasco",13950
+"161","Traverse City",13694
+"162","Kalispell",13172
+"163","NA",13122
+"164","Abilene",13118
+"165","Monroe",13062
+"166","Melbourne",12834
+"167","Bristol",11832
+"168","Champaign/Urbana",11823
+"169","Arcata/Eureka",11722
+"170","Bakersfield",11556
+"171","Fort Smith",11511
+"172","Augusta",11496
+"173","Montgomery",11473
+"174","San Angelo",11400
+"175","Newburgh",11374
+"176","Grand Junction",11263
+"177","Lawton",10912
+"178","Bismarck",10846
+"179","Wichita Falls",10723
+"180","Wilkes-Barre/Scranton",10628
+"181","Hilo",10584
+"182","Laredo",10424
+"183","Lincoln",9999
+"184","Idaho Falls",9545
+"185","Panama City",9231
+"186","Bloomington",9146
+"187","Alexandria",8958
+"188","Hailey",8827
+"189","St George",8800
+"190","Casper",8796
+"191","Helena",8598
+"192","Duluth",8598
+"193","La Crosse",8556
+"194","Redmond",8180
+"195","Montrose",8133
+"196","Texarkana",7947
+"197","Sitka",7817
+"198","Charlottesville",7579
+"199","Elko",7414
+"200","Beaumont/Port Arthur",7262
+"201","Eagle",7207
+"202","Gainesville",7040
+"203","Key West",6948
+"204","Fayetteville",6747
+"205","Bethel",6644
+"206","Longview",6485
+"207","Minot",6453
+"208","Twin Falls",6397
+"209","Santa Maria",6287
+"210","Redding",6143
+"211","Nome",5986
+"212","Appleton",5978
+"213","Kotzebue",5883
+"214","Brownsville",5799
+"215","Dubuque",5777
+"216","Dothan",5636
+"217","Pocatello",5594
+"218","St. Petersburg",5221
+"219","Grand Forks",5135
+"220","Oxnard",5111
+"221","Erie",4915
+"222","Binghamton",4813
+"223","Columbus-Starkville-West Point",4604
+"224","Barrow",4452
+"225","Macon",4365
+"226","Lake Charles",4310
+"227","Hayden",4271
+"228","Cordova",4256
+"229","Yakutat",4170
+"230","Petersburg",4158
+"231","Wrangell",4155
+"232","Valdosta",4095
+"233","Kodiak",3987
+"234","Modesto",3984
+"235","Brunswick",3965
+"236","Butte",3956
+"237","Yuma",3853
+"238","Christiansted",3837
+"239","Meridian",3823
+"240","Huntington",3385
+"241","Chico",3186
+"242","Lynchburg",3117
+"243","Durango",3111
+"244","Crescent City",3104
+"245","Inyokern",3084
+"246","Florence",2897
+"247","Cedar City",2787
+"248","Cody",2748
+"249","Victoria",2369
+"250","Ithaca",2321
+"251","Elmira",2309
+"252","Deadhorse",2278
+"253","Atlantic City",2203
+"254","Imperial",2172
+"255","Aguadilla",2153
+"256","Unalaska",2147
+"257","King Salmon",1962
+"258","Visalia",1848
+"259","New Haven",1632
+"260","Dillingham",1554
+"261","Naples",1412
+"262","Gunnison",1278
+"263","Worcester",1119
+"264","Sioux City",946
+"265","West Yellowstone",808
+"266","Kinston",727
+"267","Lewisburg",722
+"268","Lewiston",668
+"269","Hickory",630
+"270","Tupelo",617
+"271","Nantucket",601
+"272","Gustavus",528
+"273","Lanai City",286
+"274","Kaunakakai",275
+"275","Adak",259
+"276","Ponce",198
+"277","Mosinee",175
+"278","Mayaguez",84
+"279","Pueblo",10
+"280","Ogden",6
+"281","Clarksburg",6
+"282","Farmington",5
+"283","Provo",3
+"284","Cheyenne",2
+"285","Scottsbluff",1
+"286","Roswell",1
+"287","Laramie",1
